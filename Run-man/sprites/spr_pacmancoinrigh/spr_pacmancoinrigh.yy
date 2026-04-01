@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_pacmanright",
-  "bbox_bottom": 71,
-  "bbox_left": 21,
-  "bbox_right": 78,
-  "bbox_top": 4,
+  "name": "spr_pacmancoinrigh",
+  "bbox_bottom": 81,
+  "bbox_left": 9,
+  "bbox_right": 74,
+  "bbox_top": 14,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"afd97453-ddba-41d0-9ef5-620e050f703a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6780109b-334b-4ff9-8912-da6e911c75ba",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 84,
+  "height": 101,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"75e502cd-3e98-4480-8864-f706323e1ee8","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d3763061-c0b4-4db1-b8b6-3e7a9278c51b","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_pacmanright",
+    "name": "spr_pacmancoinrigh",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"afd97453-ddba-41d0-9ef5-620e050f703a","path":"sprites/spr_pacmanright/spr_pacmanright.yy",},},},"Disabled":false,"id":"cd741fbe-b971-4681-bf84-9b7278379f62","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6780109b-334b-4ff9-8912-da6e911c75ba","path":"sprites/spr_pacmancoinrigh/spr_pacmancoinrigh.yy",},},},"Disabled":false,"id":"d9ea4bc3-59a4-4c21-a534-2ec6b5636f13","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 98,
+  "width": 82,
 }
